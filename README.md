@@ -29,9 +29,3 @@ You can also run (most of) the tests on the command line:
 
     npm test
 
-The command line runner is a work in progress; contributions welcome :)
-
-### Available dependencies
-
-The repo includes jQuery, Backbone, and Underscore. You can use these
-libraries when writing your solutions!
